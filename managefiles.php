@@ -1,7 +1,7 @@
 <?php
 $status = "";
 $noupload = 0;
-$path = "files/";
+$path = "jpg/";
 //$diretorio = dir($path);
 
 if(isset($_GET['del'])){
